@@ -1217,6 +1217,9 @@ ul, li {
     .letter {
         padding: 15px 15px 20vw 15px;
     }
+    .giftcard {
+        max-width: 30% !important;
+    }
 }
 
 @media all and (max-width: 768px) and (orientation: landscape) {
